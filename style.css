@@ -1,27 +1,23 @@
-body{
+
+body {
     background-color: darkolivegreen
 }
 
-ul{
-    border: 2px dashed;
-    border-color: white;
-    
-}
-
 a {
-    display: block;
+    display: inline-block;
     padding: 8px;
     border-radius: 8px;
     background-color: black;
     color: white;
+    text-decoration: none;
 }
 
-li{
+li {
     font-family: Elephant;
     font-size: medium;
     display: inline;
 }
 
-div{
-    font-family:'Times New Roman';
+div {
+    font-family: 'Times New Roman';
 }
