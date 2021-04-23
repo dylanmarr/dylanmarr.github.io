@@ -3,14 +3,23 @@ body{
 }
 
 ul{
-    background-color:azure;
     border: 2px dashed;
     border-color: white;
+    
+}
+
+a {
+    display: block;
+    padding: 8px;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
 }
 
 li{
-    font-family:'Times New Roman';
+    font-family: Elephant;
     font-size: medium;
+    display: inline;
 }
 
 div{
